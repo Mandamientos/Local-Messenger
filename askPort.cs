@@ -1,8 +1,8 @@
 namespace Local_Messenger
 {
-    public partial class Form1 : Form
+    public partial class askPort : Form
     {
-        public Form1()
+        public askPort()
         {
             InitializeComponent();
         }

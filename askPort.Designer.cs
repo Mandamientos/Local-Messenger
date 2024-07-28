@@ -1,6 +1,6 @@
 ﻿namespace Local_Messenger
 {
-    partial class Form1
+    partial class askPort
     {
         /// <summary>
         ///  Required designer variable.

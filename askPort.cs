@@ -25,7 +25,7 @@ namespace Local_Messenger
                     askPortLabel.Text = "¡No puedes utilizar ese puerto!";
                 } else
                 {
-                    messenger messenger = new messenger();
+                    messengerApp messenger = new messengerApp(allocatedPort, targetPort);
                     messenger.Show();
                     this.Hide();
                 }

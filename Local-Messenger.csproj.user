@@ -4,5 +4,8 @@
     <Compile Update="askPort.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="messenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

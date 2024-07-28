@@ -51,7 +51,7 @@ namespace Local_Messenger
             }
 
             ApplicationConfiguration.Initialize();
-            Application.Run(new askPort());
+            Application.Run(new askPort(allocatedPort));
         }
     }
 }

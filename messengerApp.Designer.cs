@@ -41,7 +41,6 @@
             entryMsg.Name = "entryMsg";
             entryMsg.Size = new Size(598, 55);
             entryMsg.TabIndex = 0;
-            entryMsg.TextChanged += textBox1_TextChanged;
             // 
             // sendButton
             // 

@@ -16,3 +16,21 @@ C:\Users\User\Desktop\tarea 1 Algoritmos\T1\Local Messenger\Local-Messenger\obj\
 C:\Users\User\Desktop\tarea 1 Algoritmos\T1\Local Messenger\Local-Messenger\obj\Debug\net8.0-windows\Local-Messenger.genruntimeconfig.cache
 C:\Users\User\Desktop\tarea 1 Algoritmos\T1\Local Messenger\Local-Messenger\obj\Debug\net8.0-windows\ref\Local-Messenger.dll
 C:\Users\User\Desktop\tarea 1 Algoritmos\T1\Local Messenger\Local-Messenger\obj\Debug\net8.0-windows\Local_Messenger.messengerApp.resources
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\bin\Debug\net8.0-windows\Local-Messenger.exe
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\bin\Debug\net8.0-windows\Local-Messenger.deps.json
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\bin\Debug\net8.0-windows\Local-Messenger.runtimeconfig.json
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\bin\Debug\net8.0-windows\Local-Messenger.dll
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\bin\Debug\net8.0-windows\Local-Messenger.pdb
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\obj\Debug\net8.0-windows\Local_Messenger.askPort.resources
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\obj\Debug\net8.0-windows\Local_Messenger.messengerApp.resources
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\obj\Debug\net8.0-windows\Local-Messenger.csproj.GenerateResource.cache
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\obj\Debug\net8.0-windows\Local-Messenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\obj\Debug\net8.0-windows\Local-Messenger.AssemblyInfoInputs.cache
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\obj\Debug\net8.0-windows\Local-Messenger.AssemblyInfo.cs
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\obj\Debug\net8.0-windows\Local-Messenger.csproj.CoreCompileInputs.cache
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\obj\Debug\net8.0-windows\Local-Messenger.sourcelink.json
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\obj\Debug\net8.0-windows\Local-Messenger.dll
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\obj\Debug\net8.0-windows\refint\Local-Messenger.dll
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\obj\Debug\net8.0-windows\Local-Messenger.pdb
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\obj\Debug\net8.0-windows\Local-Messenger.genruntimeconfig.cache
+C:\Users\Manda\OneDrive\Documentos\GitHub\Local-Messenger\obj\Debug\net8.0-windows\ref\Local-Messenger.dll
